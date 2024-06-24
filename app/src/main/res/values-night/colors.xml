@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="all_background">#FFFFFFFF</color>
+    <color name="all_background">#121212</color>
 
-    <color name="menu_icon_selected">#121212</color>
+    <color name="menu_icon_selected">#FFFFFF</color>
     <color name="menu_icon_unselected">#63121212</color>
 </resources>
