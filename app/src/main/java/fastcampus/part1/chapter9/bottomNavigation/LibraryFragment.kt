@@ -1,4 +1,4 @@
-package fastcampus.part1.chapter9.navigation
+package fastcampus.part1.chapter9.bottomNavigation
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

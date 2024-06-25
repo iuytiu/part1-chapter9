@@ -2,6 +2,6 @@
 <resources>
     <color name="all_background">#FFFFFFFF</color>
 
-    <color name="menu_icon_selected">#121212</color>
-    <color name="menu_icon_unselected">#63121212</color>
+    <color name="menu_selected">#121212</color>
+    <color name="menu_unselected">#63121212</color>
 </resources>

@@ -5,11 +5,11 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import fastcampus.part1.chapter9.databinding.ActivityMainBinding
-import fastcampus.part1.chapter9.navigation.FeedFragment
-import fastcampus.part1.chapter9.navigation.HomeFragment
-import fastcampus.part1.chapter9.navigation.LibraryFragment
-import fastcampus.part1.chapter9.navigation.ProfileFragment
-import fastcampus.part1.chapter9.navigation.SearchFragment
+import fastcampus.part1.chapter9.bottomNavigation.FeedFragment
+import fastcampus.part1.chapter9.bottomNavigation.HomeFragment
+import fastcampus.part1.chapter9.bottomNavigation.LibraryFragment
+import fastcampus.part1.chapter9.bottomNavigation.ProfileFragment
+import fastcampus.part1.chapter9.bottomNavigation.SearchFragment
 
 class MainActivity : AppCompatActivity() {
 
