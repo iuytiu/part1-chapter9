@@ -2,6 +2,10 @@
 <resources>
     <color name="all_background">#121212</color>
 
+    <color name="controller_background">#E6121212</color>
+    <color name="controller_music_title">#FFFFFF</color>
+    <color name="controller_music_artist">#99FFFFFF</color>
+
     <color name="menu_selected">#FFFFFF</color>
     <color name="menu_unselected">#63121212</color>
 </resources>
