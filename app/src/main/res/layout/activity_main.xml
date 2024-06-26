@@ -17,6 +17,19 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="0dp"
+        android:layout_height="2dp"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:progressBackgroundTint="@color/all_background"
+        android:progressTint="@color/music_progress"
+        app:layout_constraintTop_toBottomOf="@id/fragment"
+        app:layout_constraintBottom_toTopOf="@+id/controller"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:progress="98" />
+
     <include
         android:id="@+id/controller"
         android:layout_width="match_parent"

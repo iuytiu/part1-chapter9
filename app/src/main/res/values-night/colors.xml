@@ -2,6 +2,8 @@
 <resources>
     <color name="all_background">#121212</color>
 
+    <color name="music_progress">#FFFFFF</color>
+
     <color name="controller_background">#E6121212</color>
     <color name="controller_music_title">#FFFFFF</color>
     <color name="controller_music_artist">#99FFFFFF</color>
